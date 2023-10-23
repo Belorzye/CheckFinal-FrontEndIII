@@ -20,6 +20,7 @@ Requisitos
 # Clone o repositório para o seu computador
 git clone https://github.com/DigitalHouseBrasil/CTD-FE3-Checkpoint2-Template
 
+
 # Entre na pasta do projeto
 cd CTD-FE3-Checkpoint2-Template
 
