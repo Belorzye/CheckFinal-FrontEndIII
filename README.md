@@ -73,12 +73,24 @@ Rota para buscar os pacientes: https://dhodonto.ctdprojetos.com.br/paciente
 
 Rota para o login https://dhodonto.ctdprojetos.com.br/auth
 
+
+
 Para logar na aplicação, utilize:
 
+
+
 Login: dentistaAdmin
+
+
 Senha: admin123
+
+
 Entrega
+
+
 Formato de Entrega
+
+
 O envio será aceito enviando o URL do seu repositório clonado e um link do seu projeto na Vercel/Netlify, etc
 
 O link do Google Form para submissão será enviado pelo professor responsável pela comissão.
