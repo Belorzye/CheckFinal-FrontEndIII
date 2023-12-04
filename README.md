@@ -1,7 +1,11 @@
 # CheckFinal-FrontEndIII
 
 ctd-fe3-template
-LINK VERCEL>>> https://dh-odonto.vercel.app/
+LINK VERCEL>>> https://dh-odonto.vercel.app/ 
+
+ou  
+
+Link vercel: https://check-final-front-end-iii-stqu.vercel.app/
 
 
 Para logar na aplicação, utilize:
